@@ -1,1 +1,1 @@
-fight_bot: python 외주.py
+fight_bot: python bot.py
