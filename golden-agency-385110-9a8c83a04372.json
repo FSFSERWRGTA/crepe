@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "golden-agency-385110",
+  "private_key_id": "9a8c83a04372d20f94504a5062a5f559ac333dbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8+L670fHrEu4t\nvzO+ORAhUp0Ttj024vIt86jSuSaVphKJ9WCy88QuB7GSzfkq8Xu1JU2jLCUez+WV\n5XvCBhM7sWQccxYJQ+XiSy0F3+6by5J4DMBMCQTT1p7LpIrCLZdi1cOxwwRjdpQg\nRVQQNUbPiNqQhGSh3HJx5a2KlWiUTDi+mI3aA0RGe7OHS8TJo/QMVhKr/qN13Dhy\nJGkhOzX5sA51pQqYM54caD8wVwEQNgi8RwkVXU5nXZWpwass4MZVfy2eG19GuNe1\nUV6t/nOvt0N7dGcuAfzgrdQ39zOHLMF+L0KpE2gw+PJrf0dy7/kne/WVPYuKX3ZW\nai6FHLW7AgMBAAECggEAAp/ZFPED++tIjTBtbrQKgiP3FCnWQiJhvFCjehW3MEyH\npQyC2h63jUTEaxEFklqbM2IAE4bj7GsfuaFfwss5zieXB9bIqg/xgTSLvLFQ9i9G\nv/hmspz3c7JfLzMq+CpmQqmhrPYpOUZmz+dBP8kK9uE5g9igMH1IG5vVzqm83j5b\nTTBLaH65WXNRGtrAS8BGtmXVcxUII0qwnjwJ+tysuYmTxaH6tUQfMh6E9sxGuD+A\n4q+k5u9kEllY1s6Vx6uwJH+eSIILKicn/E38DQ538nsBq6O3vDDpFeyEAqowZb61\nevAcTpx4mDLpC23oS1yjVVSUPDfO2kycv1kkzUhCDQKBgQDl/usJRqTT0Fm/Ijsp\ncRX8nCcLMLFblcflBY2YGGeDViPF0EKlpFS+hct/6KIMpR1h1gY+K50GiSVLzduq\ngvz7J/dD97Y80hTuLxD6Cwvvx/hncJ54PyIGiPpuCcKO47J0i/NscmhDRtJQI45n\nFKlM0IcO28pUnNjSjdKeFvI1vQKBgQDSVmj0iES/Qs0vFaW62OLHYud9WzIfnCeq\nN2Ksx2OKo6aKx0zUE++emD1Hyv20SFgKRigoLYA+YMwuoGKIWZjXdEo8Zpia1F5O\ndqZMn50OTZPIgAPQrPhyzZHyY2cc8hvfQfKLbYf5jTzVGEeVnbiIEKoc1OiHqxAe\nkVqIq18k1wKBgCxpWBtXb9aS4fGde40aECPSR1vK0ESeHJZlxxy6gaqDxK6a83Om\n0tJjZZNSaZBFhfHxcQ0qQM0VSIVlv+giGRWqdv3B5IfEDVSc9AtEfM6Vb6sRvRf9\nIOXgJ3N+IPqUj04gBCZJxUZQc6YT55iSDcsObTX6TQyfqOKnjicGyUiFAoGAXbjn\nF17I0zhe2QYaTMFre1CUuYSzNuaLvgrjyv0lW5dEFD5t+2nOsapAVAcdOQGrSRit\nuAleRW04TeZlQUA7HHXSxkso4ISUaP3xZ98PSlpC6WoxSQBpzC3RRGIKhhlTVg26\nl2n81rOaUZF6BC69FNPoGOS9oAYXLqex4YgK4w0CgYAwdjoeSIlV64d+G8Gt+tpQ\nsM20xe82M85grBhu5yVnH3di9gVHfCh+Jz6CrUabFuzjpUliEHoaDHq/KabloEPE\n26PmWFfUUsbgWZFF3Sbbp1rBIO9WWIBNXpgg8xnEgK//ISiLudoSGMtPEklF/Uib\n1En6eBlqCesCOxBeo+8agA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wasabi@golden-agency-385110.iam.gserviceaccount.com",
+  "client_id": "106961180598170674619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wasabi%40golden-agency-385110.iam.gserviceaccount.com"
+}
