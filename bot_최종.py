@@ -930,6 +930,9 @@ def use(mention_keyword, message):
                 worksheet.update_cell(cell.row, 17,a)
         else: 
             return '사용인원 오류. 사용인원을 확인해주세요.'
+        
+    else:
+        return '키워드 오류입니다. 키워드를 다시 확인해주세요.'
 
     return f'{second_keyword} 사용 확인되었습니다.'
 
